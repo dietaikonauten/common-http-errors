@@ -1,0 +1,30 @@
+{
+  "name": "common-http-errors",
+  "version": "0.0.1",
+  "description": "A collection of common http errors for web-applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/error-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dietaikonauten/common-http-errors.git"
+  },
+  "keywords": [
+    "http",
+    "errors",
+    "expressjs",
+    "error",
+    "helper"
+  ],
+  "author": "Nicolas Traeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dietaikonauten/common-http-errors/issues"
+  },
+  "homepage": "https://github.com/dietaikonauten/common-http-errors#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
