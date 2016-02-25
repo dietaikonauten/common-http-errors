@@ -17,7 +17,7 @@
     "error",
     "helper"
   ],
-  "author": "Nicolas Traeder",
+  "author": "Nicolas Traeder <nt@taikonauten.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dietaikonauten/common-http-errors/issues"
