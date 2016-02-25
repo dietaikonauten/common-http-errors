@@ -1,5 +1,7 @@
 # common-http-errors
 
+[![Build Status](https://travis-ci.org/dietaikonauten/common-http-errors.svg?branch=master)](https://travis-ci.org/dietaikonauten/common-http-errors)
+
 A collection of common http errors for any web-application. The following errors are included:
 
 **Client errors**
